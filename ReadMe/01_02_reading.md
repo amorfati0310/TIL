@@ -9,3 +9,8 @@
 ### [스토리북_입문_가이드_+강의](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
 
 ### [30Seconds_JS](https://30secondsofcode.org/)
+
+### [Pure_CSS](https://picturepan2.github.io/instagram.css/)
+
+### [React.js_Open_Source_2018](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
+### [React_native_한국에선_안_팔려](https://brunch.co.kr/@brightlee/13)
