@@ -15,4 +15,6 @@
 ### [React.js_Open_Source_2018](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
 ### [React_native_한국에선_안_팔려](https://brunch.co.kr/@brightlee/13)
 
-### []()
+### [기술면접_자료_JS_위주로_읽기](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+
+### [타입스크립트](https://jaeyeophan.github.io/2017/04/23/TS-1-Basic-Types/)
