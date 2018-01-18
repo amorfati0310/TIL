@@ -24,5 +24,11 @@
 
 ### [180117](ReadMe/180117.md)
 
+### [180118](ReadMe/180118.md)
 
-### [조만간_읽자](ReadMe/01_02_reading.md)
+
+### [조만간_읽자_2주차](ReadMe/01_w02_reading.md)
+
+### [조만간_읽자_3주차](ReadMe/01_w03_reading.md)
+
+
