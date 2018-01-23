@@ -30,6 +30,9 @@
 
 ### [180122](ReadMe/180122.md)
 
+### [180123](ReadMe/180123.md)
+
+
 ### [조만간_읽자_2주차](ReadMe/01_w02_reading.md)
 
 ### [조만간_읽자_3주차](ReadMe/01_w03_reading.md)
