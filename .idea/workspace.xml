@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b8ba064-6340-4cd0-8589-02b5b93690c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/TIL.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/Quiz/NumberBaseBall/ReadMe.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/Quiz/NumberBaseBall/numberBaseball.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS/Quiz/NumberBaseBall/numberBaseball.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ReadMe/180221.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/JS/Quiz/numberBaseball.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="8b8ba064-6340-4cd0-8589-02b5b93690c9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -187,12 +175,12 @@
       <option name="presentableId" value="Default" />
       <updated>1519222845454</updated>
       <workItem from="1519222847365" duration="76000" />
-      <workItem from="1519222959265" duration="3093000" />
+      <workItem from="1519222959265" duration="3404000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3169000" />
+    <option name="totallyTimeSpent" value="3480000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="0" />
