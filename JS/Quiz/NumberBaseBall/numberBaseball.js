@@ -81,6 +81,12 @@ let isEnter = function (e) {
 // 타켓숫자와 입력한 숫자의 자리수를 비교하여 스트라이크 볼 이닝 등의 결과값을 저장한다. 
 // 10줄 넘는 코드
 // 이 부분을 분리할 필요성 !!! 
+let winningMessage = 'You Win'
+const MATCH = 3
+let alertUserWin = strike => {
+    if (strike === MATCH) return alert(winningMessage); 
+};
+
 let compareDigits = (digits, inning) => {
     console.log('digits', digits, 'targetDigits', targetDigits)
     let result = {
@@ -121,6 +127,8 @@ let inning = function () {
         let inputDigits = makeDigitsArray(InputNumber)
         // 비교하여 스트라이크, 볼등의 결과값을 가진 결과를 저장합니다
         let result = compareDigits(inputDigits, inningCount)
+        // 게임 이기면 위닝 메시지 알림 
+        alertUserWin(result.strike);
         // console.log('strike', result.strike, 'ball', result.ball)
         // 결과값을 가지고 Dom에 출력해 줄 값을 저장합니다.
         let resultTexts = `<p class="resultText">
