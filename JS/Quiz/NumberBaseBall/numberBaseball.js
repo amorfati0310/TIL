@@ -131,6 +131,10 @@ let inning = function () {
         alertUserWin(result.strike);
         // console.log('strike', result.strike, 'ball', result.ball)
         // 결과값을 가지고 Dom에 출력해 줄 값을 저장합니다.
+        // 뒤에 text가 있어서... 순서를 
+        // for(let key in result){
+        //     `<span class="${key}">${result[key]} ${result.inningText}</span>`
+        // }
         let resultTexts = `<p class="resultText">
                                 <span class="inning">${result.inning} ${result.inningText}</span>
                                 <span class="strike">${result.strike} ${result.textStrike}</span>
