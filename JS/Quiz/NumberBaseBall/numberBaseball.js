@@ -99,6 +99,14 @@ let compareDigits = (digits, inning) => {
         ball:  0,
         inning,                           
     }
+    // 피드백 주석 !!! 
+    // 주석 필요 없이 함수 이름 밑 로직만으로 이해하기 쉽게 코드를 짜야 된다. 
+    // 이 부분 어떻게 개선 할 수 있을까!!!! 
+    // 아이디어 1. 배열 하나로 합친다. 
+    //
+    let totalDigits = digits.concat(targetDigits)
+    https://stackoverflow.com/questions/840781/get-all-non-unique-values-i-e-duplicate-more-than-one-occurrence-in-an-array
+    //
     for(let i = digits.length-1; i>=0; i--){
         for(let j= targetDigits.length-1; j>=0; j--){
             if(targetDigits [j] === digits[i]){
